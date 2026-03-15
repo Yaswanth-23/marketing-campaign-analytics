@@ -117,15 +117,20 @@ Git
 GitHub  
 VS Code
 
----
+## Project Structure
 
-# Project Structure
-
+```
 marketing-campaign-analytics
 │
 ├── data
+│   └── marketing_campaign.csv
+│
 ├── notebooks
+│   └── campaign_analysis.ipynb
+│
 ├── scripts
+│   └── analysis.py
+│
 ├── visuals
 │   ├── conversions_by_channel.png
 │   ├── cost_by_channel.png
@@ -134,7 +139,7 @@ marketing-campaign-analytics
 │
 ├── README.md
 └── requirements.txt
----
+```
 
 # Exploratory Data Analysis (EDA)
 

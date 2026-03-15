@@ -1,0 +1,11 @@
+campaign_id,channel,impressions,clicks,conversions,cost,segment
+1,Facebook,10000,800,120,500,Youth
+2,Google Ads,15000,1200,200,900,Working Professionals
+3,Instagram,12000,950,150,600,Youth
+4,Email,8000,500,100,200,Students
+5,LinkedIn,9000,400,80,700,Professionals
+6,Facebook,11000,850,130,520,Youth
+7,Google Ads,16000,1300,210,950,Professionals
+8,Instagram,12500,1000,160,620,Students
+9,Email,8500,550,110,220,Working Professionals
+10,LinkedIn,9200,420,90,710,Professionals

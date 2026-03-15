@@ -121,30 +121,19 @@ VS Code
 
 # Project Structure
 
-
 marketing-campaign-analytics
 │
 ├── data
-│ └── marketing_campaign.csv
-│
 ├── notebooks
-│ └── campaign_analysis.ipynb
-│
 ├── scripts
-│ └── analysis.py
-│
 ├── visuals
-│ ├── campaign_distribution.png
-│ ├── conversions_by_channel.png
-│ ├── cost_by_channel.png
-│ ├── conversions_by_segment.png
-│ └── powerbi_dashboard.png
+│   ├── conversions_by_channel.png
+│   ├── cost_by_channel.png
+│   ├── conversions_by_segment.png
+│   └── powerbi_dashboard.png
 │
-├── marketing_dashboard.pbix
-├── requirements.txt
-└── README.md
-
-
+├── README.md
+└── requirements.txt
 ---
 
 # Exploratory Data Analysis (EDA)

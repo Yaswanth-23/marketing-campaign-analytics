@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Marketing Campaign Analytics
 
 This project analyzes marketing campaign performance using Python.
